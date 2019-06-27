@@ -1,0 +1,7 @@
+// source: book, page 124
+// input:
+message: 01234567 89abcdef fedcba98 76543210
+key: 0f1571c9 47d9e859 0cb7add6 af7f6798
+// excepted output :
+cipher: ff0b844a 0853bf7c 6934ab43 64148fb9
+// state: passed
